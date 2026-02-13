@@ -4,6 +4,8 @@
 
 `Color Flip` 是一個基於 Python 與 Gradio 開發的輕量化互動程式。它旨在幫助學生與設計師理解數位色彩底層的 **RGB (硬體邏輯)** 與人類直覺的 **HSB (設計邏輯)** 之間是如何相互轉換與連動的。
 
+線上示範：<https://cchsu-course-color-flip.hf.space/>
+
 ## 核心特色
 
 * **雙向連動 (Real-time Sync)**：調整 RGB 滑桿，HSB 數值隨之改變；反之亦然，完美模擬 Figma 的顏色選擇器。
